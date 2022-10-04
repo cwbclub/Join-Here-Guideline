@@ -1,6 +1,6 @@
 # GUIDELINE
 
-### 1. First fork this repo
+### 1. Give Star and then First fork this repo
 ### 2. Then clone the forked repo to yourl local machine by `git clone "your forked link"`
 ### 3. In your editor add your github profile id prefixed with @ (eg @devrabbani) to CONTRIBUTORS.md file 
 ### 4. After that enter `git add .` and then give a meaningfull commit by `git commit -m "Adding Golam Rabbani"`
